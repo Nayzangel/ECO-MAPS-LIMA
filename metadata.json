@@ -1,0 +1,6 @@
+{
+  "name": "ECO-MAP LIMA",
+  "description": "Plataforma de Inteligencia Ambiental y Motor de Decisión para Lima Metropolitana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
